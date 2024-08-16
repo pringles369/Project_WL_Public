@@ -1,0 +1,33 @@
+Number,Chapter,이름,Content,Location,EventFilter
+0,0,겔다,카이! 카이를 구하러 가야 해!,Interaction,Tutorial
+1,0,겔다,눈의 여왕이 사는 성까지 가는 길은 꽤 험할거라고 했는데...,Interaction,Tutorial
+2,0,겔다,아냐/ 그래도 내 소중한 친구를 내버려둘 수는 없어!,Interaction,Tutorial
+3,0,겔다,그래/ 까짓거 한 번 가보자고.,Interaction,Tutorial
+4,0,겔다,응? 여기 뭔가 써있는데? 상호...작용은 E.,Interaction,Tutorial
+5,0,겔다,"오, 대사도 넘어가네?",Interaction,Tutorial
+6,0,겔다,또 써먹을테니까 기억해둬야지.,Interaction,Tutorial
+7,0,겔다,어디보자/ 다음. 점프는...,Interaction,Tutorial
+8,0,겔다,하나 둘 셋/ Spacebar!,Interaction,Tutorial
+9,0,겔다,안봐도 소설책이네!,Interaction,Tutorial
+10,0,겔다,...잠깐/ 잠깐! 저건 뭐야?,Interaction,Tutorial
+11,0,겔다,...고양이?,Interaction,Tutorial
+12,0,고양이,하아악!!,Interaction,Tutorial
+13,0,겔다,어어?! 이 고양이가!,Interaction,Tutorial
+14,0,겔다,안되겠어! 아주 혼쭐을 내줘야지.,Interaction,Tutorial
+15,0,겔다,A를 눌러서 공격하자!,Interaction,Tutorial
+16,0,겔다,"윽, 도망가야겠어... 일보 후퇴!",Interaction,Tutorial
+17,0,겔다,점프할 때 Shift를 눌러서 대시하자!,Interaction,Tutorial
+18,0,겔다,끄응... 적이 너무 멀어...,Interaction,Tutorial
+19,0,겔다,이럴줄 알고 활을 가져왔지.,Interaction,Tutorial
+20,0,겔다,S로 활을 쏴서 맞추자!,Interaction,Tutorial
+21,0,겔다,왠지 저 초록색 덩어리... 말랑해보인다!,Interaction,Tutorial
+22,0,겔다,뭔가 점프가 잘 될 것 같아!,Interaction,Tutorial
+23,0,겔다,"으음, 아무래도 양쪽 벽을 타야 할 것 같은데...",Interaction,Tutorial
+24,0,겔다,이건 내가 경험이 좀 있지.,Interaction,Tutorial
+25,0,겔다,벽을 보면서 점프!,Interaction,Tutorial
+26,0,겔다,무슨 나무가 저렇게 커?,BossField,Boss
+27,0,겔다,돌에 이상한 문양이 그려져 있어.,Interaction,Tutorial
+28,0,겔다,만져보면 뭔가 알 수 있을지도...,Interaction,Tutorial
+29,0,겔다,예를 들면... 막 불이 켜진다든가?,Interaction,Tutorial
+30,0,겔다,...막이래~,Interaction,Tutorial
+31,1,겔다,엥? 나무가 움직이잖아?,BossField,Boss
